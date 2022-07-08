@@ -1,0 +1,15 @@
+{
+  "name": "DribbbleApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.4.2",
+    "react-native-blur": "^0.4.2",
+    "react-native-parallax-view": "git://github.com/lelandrichardson/react-native-parallax-view",
+    "react-native-vector-icons": "^0.6.1",
+    "react-timer-mixin": "^0.13.1"
+  }
+}
